@@ -1,1 +1,1 @@
-# magazines.giithub.io
+# magazines.github.io
