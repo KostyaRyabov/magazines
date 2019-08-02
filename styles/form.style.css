@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "v_blambot_casual";
+  src: url("../styles/v_blambot_casual.ttf") format("truetype"); 
+}
+
+body {
+  font-family: "v_blambot_casual";
+  background: url("../photo/fon2.gif") no-repeat;
+  background-size: cover;
+}
+
+.block{
+  margin: 10%;
+  color: White;
+  border: 5px solid #001070;
+  background: rgba(0,51,102,0.7);
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.button {
+  position: absolute; 
+  left:50%; margin-left:-60px;
+  font-size:20px;
+  text-decoration: none;
+  width: 100px;
+  color: White;
+  border: 5px solid #001070;
+  background: rgba(0,51,102,0.7);
+  border-radius: 10px;
+  padding: 5px;
+}
